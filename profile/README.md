@@ -21,7 +21,7 @@ With Fusion 360, users can create detailed 3D models, perform advanced simulatio
 Fusion 360 supports parametric, direct, surface, and mesh modeling, allowing for unparalleled flexibility in design. Its generative design capabilities help optimize parts for weight, strength, and material usage, while its simulation tools enable users to test and validate designs under real-world conditions. Whether you're designing a simple component or a complex assembly, Fusion 360 provides the tools you need to bring your ideas to life.
 
 <p align="center">
-  <img src="https://www.autodesk.com/products/fusion-360/blog/wp-content/uploads/2022/02/img_6217adae345f9.png" alt="Fusion 360 Screenshot"/>
+  <img src="https://formlabs-media.formlabs.com/filer_public_thumbnails/filer_public/5e/be/5ebe8e0d-dbfb-4e2b-a4ff-f97ee3710073/enable.png__1354x0_subsampling-2.png" alt="Fusion 360 Screenshot"/>
 </p>
 
 ---
@@ -87,3 +87,4 @@ Fusion 360 supports parametric, direct, surface, and mesh modeling, allowing for
 ## 🏷 Tags
 
 fusion 360 • fusion 360 download • fusion 360 free • fusion 360 student • fusion 360 license • fusion 360 tutorial • fusion 360 cad • fusion 360 cam • fusion 360 pcb • fusion 360 design • fusion 360 modeling • fusion 360 simulation • fusion 360 generative design • fusion 360 cloud • fusion 360 collaboration • fusion 360 autodesk • fusion 360 professional • fusion 360 software • fusion 360 latest version • fusion 360 system requirements
+
